@@ -14,6 +14,7 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0392-is-subsequence) |
@@ -25,6 +26,7 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -34,4 +36,8 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0387-first-unique-character-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
