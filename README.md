@@ -25,6 +25,7 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 | [0392-is-subsequence](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0771-jewels-and-stones](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0771-jewels-and-stones) |
 | [1332-remove-palindromic-subsequences](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/1332-remove-palindromic-subsequences) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0049-group-anagrams) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
