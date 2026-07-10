@@ -14,6 +14,7 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0151-reverse-words-in-a-string) |
@@ -33,6 +34,7 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -60,5 +62,6 @@ A curated collection of solved DSA problems in C++ . Includes detailed solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Amandev25/Data-structure-and-Algorithms/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
